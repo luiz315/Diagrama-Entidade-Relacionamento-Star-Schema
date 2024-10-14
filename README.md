@@ -5,7 +5,7 @@
 
 O Projeto consiste em criar um modelo de "Banco de dados", Visando apresentar o modelo Star Schema a partir do exemplo abaixo 
 
-<img src="input/projeto.jpg" alt = "Imagens do projeto">
+<img src="input/projeto.jpg" alt = "imagem do projeto">
 
 Como podemos ver a estrutura acima utiliza o modelo 3NF que permite relacionamentos mais complexos e é muito utilizado para processamento transacional, quando se trata de processamento analítico onde você precisa além de armazenar e recuperar esses dados rapidamente, mas também categorizar e separar esses dados, o modelo mais recomendado e utilizado é o modelo Star Schema ou Esquema Estrela.
 
